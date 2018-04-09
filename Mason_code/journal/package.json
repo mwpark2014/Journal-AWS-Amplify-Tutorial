@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "a-theme-react": "0.0.5",
+    "aws-amplify": "^0.2.14",
+    "aws-amplify-react": "^0.1.38",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-router-dom": "^4.2.2",

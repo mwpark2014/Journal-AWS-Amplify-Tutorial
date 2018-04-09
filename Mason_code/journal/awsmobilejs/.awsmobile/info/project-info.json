@@ -1,0 +1,19 @@
+{
+	"ProjectName": "journal",
+	"ProjectPath": "C:\\Users\\mwp20\\Desktop\\Programming\\Journal-AWS-Amplify-Tutorial\\Mason_code\\journal",
+	"InitializationTime": "",
+	"LastConfigurationTime": "2018-04-08-10-53-00",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendLastSyncTime": "2018-04-08-10-54-30",
+	"BackendLastBuildTime": "2018-04-08-10-54-08",
+	"BackendLastPushTime": "2018-04-08-10-54-27",
+	"BackendLastPushSuccessful": true,
+	"BackendProjectID": "6a7c9182-3481-4e49-b6c9-9ba57a059258",
+	"BackendProjectName": "journal app",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/6a7c9182-3481-4e49-b6c9-9ba57a059258/build",
+	"BackendProjectCreationTime": "2018-04-08T14:51:41.692Z",
+	"BackendProjectLastUpdatedTime": "2018-04-08T14:54:32.301Z",
+	"Framework": "react"
+}
