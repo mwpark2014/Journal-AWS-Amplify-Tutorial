@@ -1,10 +1,21 @@
 import React, { Component } from 'react';
 import { Authenticator, Greetings } from 'aws-amplify-react';
-import { Header } from 'semantic-ui-react';
-import { Instagram } from 'a-theme-react';
+import { LoginForm, 
+  RegisterForm, 
+  ConfirmRegisterForm, 
+  VerifyContactForm, 
+  ForgotPasswordForm } from '../components';
 
 export default class Login extends Component {
   render() {
-    return <Authenticator theme={Instagram} hide={[Greetings]} />;
+    return (
+      <Authenticator hideDefault>
+        <LoginForm />
+        <RegisterForm />
+        <ConfirmRegisterForm />
+        <VerifyContactForm />
+        <ForgotPasswordForm />
+      </Authenticator>
+    );
   }
 }
